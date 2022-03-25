@@ -1,0 +1,1 @@
+A simple Sticky notes app made by javascript !
